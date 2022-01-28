@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**maygutilop/maygutilop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer Madrid - Spain .
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨  I have decided to take a turn and project my professional future in the field of programming. 
+- I am very keen on this area, and I feel that I can build value for people through technology.
+
+##### BIO
+
+- ⚙️ I use daily: `.js`, `.html`, `.css`
+- 💅 Designed: [TipUp](https://tipup.es/)
+- 🌱 Learning all about **JavaScript**
+- 💬 Ping me about **design**, **branding**, **development**, **design thinking**
+- 📫 Reach me: [LinkedinMayraG](https://www.linkedin.com/in/mayra-gutierrez-lopez/)
