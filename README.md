@@ -9,8 +9,8 @@
 
 ##### BIO
 
-- ⚙️ I use daily: `.js`, `.html`, `.css`
+- ⚙️ I use daily:`.html`, `.css`, `ruby on rails`
 - 💅 Designed: [TipUp](https://tipup.es/)
-- 🌱 Learning all about **JavaScript**
+- 🌱 Learning all about **Code**
 - 💬 Ping me about **design**, **branding**, **development**, **design thinking**
 - 📫 Reach me: [LinkedinMayraG](https://www.linkedin.com/in/mayra-gutierrez-lopez/)
