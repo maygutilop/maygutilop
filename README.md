@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer Madrid - Spain .
+#### I'm a  Product Manager & Full-Stack Web Developer Madrid - Spain .
 
 ##### NOW
 
@@ -9,7 +9,7 @@
 
 ##### BIO
 
-- ⚙️ I use daily:`.html`, `.css`, `ruby on rails`
+- ⚙️ I use daily:`.html`, `.css`, `ruby on rails`, `java script`, `Wordpress`
 - 💅 Designed: [TipUp](https://tipup.es/)
 - 🌱 Learning all about **Code**
 - 💬 Ping me about **design**, **branding**, **development**, **design thinking**
