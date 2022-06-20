@@ -9,7 +9,7 @@
 
 ##### BIO
 
-- ⚙️ I use daily:`.html`, `.css`, `ruby on rails`, `java script`, `Wordpress`
+- ⚙️ I use daily:`.html`, `.css`, `ruby on rails`, `java script`, `Wordpress`, `UX/UI`
 - 💅 Designed: [TipUp](https://tipup.es/)
 - 🌱 Learning all about **Code**
 - 💬 Ping me about **design**, **branding**, **development**, **design thinking**
